@@ -36,6 +36,16 @@
 
 
 //STEP 4
+// let charactersString = " qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890"
+// function randomString () {
+//     let userInput = window.prompt("Enter string length you want to generate:");
+//     let randomCharactersArray = new Array();
+//     for (let i = 0; i < userInput; i++) {
+//         randomCharactersArray[i] = charactersString[Math.floor(Math.random()*charactersString.length)];
+//     }
+//     window.alert(randomCharactersArray.join(''));
+// }
+// randomString();
 
 //STEP 5
 // let userInput = ["Australia", "Germany", "United States of America","OAE"];
